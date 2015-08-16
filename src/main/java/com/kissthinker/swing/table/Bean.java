@@ -10,6 +10,7 @@ import com.kissthinker.javabean.Property;
 import static com.kissthinker.collection.set.SetUtil.hashSet;
 
 /**
+ *
  * @author David Ainslie
  *
  */
